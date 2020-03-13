@@ -3,7 +3,8 @@
 ##Steps to follow :
 
 Clone the project on local git repiository
-Add below jars in classpath:
+And add below jars in classpath:
+
 1.junit-4.13\
 2.hamcrest-core-1.3
 
